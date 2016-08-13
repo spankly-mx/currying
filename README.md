@@ -1,0 +1,1 @@
+Workshop about currying samples
