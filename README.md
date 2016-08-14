@@ -1,1 +1,1 @@
-Workshop about currying samples
+Workshop about currying, reduce samples
